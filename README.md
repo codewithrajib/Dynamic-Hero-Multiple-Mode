@@ -1,4 +1,4 @@
-# Dynamic Hero with Slider, Video, SingleImage Background and TypingEffect
+# A versatile hero section with 4 background modes and typing effects.
 This project features a sleek, modern UI with a dynamic typing effect and interactive background toggles, allowing users to switch between a slider, solid colors, and a video background.
 
 ## 🚀 Live Demos
