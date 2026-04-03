@@ -3,7 +3,7 @@ This project features a sleek, modern UI with a dynamic typing effect and intera
 
 # Dynamic Hero Multiple Mode 🚀
 
-[**🌐 View Live Demo**](https://codewithrajib.github.io/Dynamic-Hero-Multiple-Mode/index-video.html)
+🌐[**View Live Demo**](https://codewithrajib.github.io/Dynamic-Hero-Multiple-Mode/index.html)
 
 # Hero Section With Single Image & Typing Effect
 
