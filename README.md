@@ -1,9 +1,13 @@
-# Dynamic-Hero-with-Slider-Video-SingleImage-Background and TypingEffect
+# Dynamic Hero with Slider, Video, SingleImage Background and TypingEffect
 This project features a sleek, modern UI with a dynamic typing effect and interactive background toggles, allowing users to switch between a slider, solid colors, and a video background.
 
-# Dynamic Hero Multiple Mode 🚀
+## 🚀 Live Demos
+Check out the different background modes available in this project:
 
-🌐[**View Live Demo**](https://codewithrajib.github.io/Dynamic-Hero-Multiple-Mode/index.html)
+* 📸 [Single Image Background with Typing Effect](https://codewithrajib.github.io/Dynamic-Hero-Multiple-Mode/)
+* 🖼️ [Slider Background](https://codewithrajib.github.io/Dynamic-Hero-Multiple-Mode/index-slider.html)
+* 🎨 [Gradient Color Background](https://codewithrajib.github.io/Dynamic-Hero-Multiple-Mode/index-color.html)
+* 📺 [Video Background](https://codewithrajib.github.io/Dynamic-Hero-Multiple-Mode/index-video.html)
 
 # Hero Section With Single Image & Typing Effect
 
